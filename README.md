@@ -8,7 +8,7 @@ I am happy to help with any GitHub - related topics:
 - ✈️ migration
 - 🤖 GH Copilot and more..
 
-> We onboarded a few companies to GHEC EMU and also migrated hundreds of repositories to GitHub using native tools and our own build tools to solve complex situations (big repos, LFS, missing refs).
+> We migrated hundreds of repositories to GitHub Enterprise Cloud with Managed Users (GHEC EMU) and used native tools and our build tools to address complex scenarios, such as large repositories, LFS, and missing refs.
 
 Programmer with DevOps Engineer knowledge - love to know how systems operating in which my code is running. Most interested in backend solutions.
 
