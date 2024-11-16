@@ -3,12 +3,12 @@
 At work they call me *GitHub Evangelist* and am mainly focused on GitHub Partnership.
 
 I am happy to help with any GitHub - related topics:
-- 🆕 onboarding
-- 👨🏻‍⚕️ governance
-- ✈️ migration
-- 🤖 GH Copilot and more..
+- 🆕 Onboarding: Assisting organisations with getting started on GitHub and understanding its features.
+- 👨🏻‍⚕️ Governance: Implementing governance policies and best practices for managing GitHub.
+- ✈️ Migration: Supporting and providing migration services to GitHub from other platforms.
+- 🤖 GH Copilot and more: Providing workshops for using GitHub Copilot and other GitHub tools effectively.
 
-⚠️ Warning wall of text below...
+⚠️ Warning wall of text below... ⚠️
 
 I’m a DevOps Engineer with a developer background, and I’ve got a real passion for understanding how the systems behind my code work. My main interest lies in backend solutions, where I feel I can make the most impact.
 
@@ -18,7 +18,7 @@ What really drives me is developing business solutions and diving into migration
 
 On the coding side, I’m comfortable with C#, TypeScript, and Java. And when it comes to DevOps, I have experience with both cloud-based and on-prem solutions. I love turning complex challenges into smooth, efficient workflows and helping teams thrive!
 
-_... and ofcourse it was AI generated content 😄 (why not?)_
+_... and ofcourse it was AI generated content 😄🤖 (why not?)_
 
 ##
 
