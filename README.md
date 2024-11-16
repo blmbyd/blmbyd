@@ -8,16 +8,17 @@ I am happy to help with any GitHub - related topics:
 - ✈️ migration
 - 🤖 GH Copilot and more..
 
-> We migrated hundreds of repositories to GitHub and used native tools and our build tools to address complex scenarios, such as large repositories, LFS, and missing refs.
+⚠️ Warning wall of text below...
 
-I am a DevOps Engineer with a developer background. I love to know how the systems in which my code is running operate. I am most interested in backend solutions.
+I’m a DevOps Engineer with a developer background, and I’ve got a real passion for understanding how the systems behind my code work. My main interest lies in backend solutions, where I feel I can make the most impact.
 
-Developer of business solutions. I have always been interested in migration projects and integrating various systems.
+Throughout my journey in the IT world, I've worn many hats—team lead, project manager, developer, full-stack whiz, game developer, DevOps guru, and more. I've dabbled in disaster recovery, site reliability, and even tackled PCI-DSS compliance. Whether in startups or big corporations, I’ve seen it all and picked up valuable lessons along the way—especially how to dodge some of the common pitfalls!
 
-Knowledge about maintaining a production environment. Good understanding of infrastructure, with the ability to support hardware and software solutions used to run developed products.
+What really drives me is developing business solutions and diving into migration projects or system integrations. I’ve got a solid grasp of how to maintain a production environment and a good understanding of infrastructure, so I can support the hardware and software that keeps everything ticking.
 
-As a developer, I am experienced in  C#, TypeScript, and JAVA.
-As a DevOps, I am experienced in the cloud (Azure, AWS) and on prem-solutions.
+On the coding side, I’m comfortable with C#, TypeScript, and Java. And when it comes to DevOps, I have experience with both cloud-based and on-prem solutions. I love turning complex challenges into smooth, efficient workflows and helping teams thrive!
+
+_... and ofcourse it was AI generated content 😄 (why not?)_
 
 ##
 
