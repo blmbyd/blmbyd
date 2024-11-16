@@ -3,10 +3,10 @@
 At work they call me *GitHub Evangelist* and am mainly focused on GitHub Partnership.
 
 I am happy to help with any GitHub - related topics:
-- 🆕 Onboarding: Assisting organisations with getting started on GitHub and understanding its features.
-- 👨🏻‍⚕️ Governance: Implementing governance policies and best practices for managing GitHub.
-- ✈️ Migration: Supporting and providing migration services to GitHub from other platforms.
-- 🤖 GH Copilot and more: Providing workshops for using GitHub Copilot and other GitHub tools effectively.
+- 🆕 **Onboarding**: Assisting organisations with getting started on GitHub and understanding its features.
+- 👨🏻‍⚕️ **Governance**: Implementing governance policies and best practices for managing GitHub.
+- ✈️ **Migration**: Supporting and providing migration services to GitHub from other platforms.
+- 🤖 **GH Copilot** and more: Providing workshops for using GitHub Copilot and other GitHub tools effectively.
 
 ⚠️ Warning wall of text below... ⚠️
 
