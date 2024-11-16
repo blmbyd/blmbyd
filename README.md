@@ -12,7 +12,7 @@ I am happy to help with any GitHub - related topics:
 
 I’m a DevOps Engineer with a developer background, and I’ve got a real passion for understanding how the systems behind my code work. My main interest lies in backend solutions, where I feel I can make the most impact.
 
-Throughout my journey in the IT world, I've worn many hats—team lead, project manager, developer, full-stack whiz, game developer, DevOps guru, and more. I've dabbled in disaster recovery, site reliability, and even tackled PCI-DSS compliance. Whether in startups or big corporations, I’ve seen it all and picked up valuable lessons along the way—especially how to dodge some of the common pitfalls!
+Throughout my journey in the IT world, I've worn many hats — team lead, project manager, developer, full-stack, game developer, DevOps, and more. I've dabbled in disaster recovery, site reliability, and even tackled PCI-DSS compliance. Whether in startups or big corporations, I’ve seen it all and picked up valuable lessons along the way — especially how to dodge some of the common pitfalls!
 
 What really drives me is developing business solutions and diving into migration projects or system integrations. I’ve got a solid grasp of how to maintain a production environment and a good understanding of infrastructure, so I can support the hardware and software that keeps everything ticking.
 
