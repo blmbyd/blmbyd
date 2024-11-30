@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaspace+Argon&weight=800&pause=1000&color=F7F7F7&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Pawel...;This+is...;...my+GitHub)](https://git.io/typing-svg)
 
 At work they call me *GitHub Evangelist* and am mainly focused on GitHub Partnership.
 
@@ -31,5 +31,7 @@ _... and ofcourse it was AI generated content 😄🤖 (why not?)_
 - ⚡ Fun fact: About 100 million bicycles are manufactured worldwide each year
 
 ##
+
+### Connect with me...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawelstuczynski/)
