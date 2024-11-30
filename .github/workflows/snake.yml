@@ -1,0 +1,17 @@
+name: Snake
+
+on:
+  schedule:
+  - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  eat_it:
+    runs-on: ubuntu-latest
+   
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
