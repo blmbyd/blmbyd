@@ -22,10 +22,6 @@ _... and ofcourse it was AI generated content 😄🤖 (why not?)_
 
 ##
 
-![admin_badge](https://github.com/user-attachments/assets/335988b1-3f48-485e-bf5b-457e6d050d80) ![ghas_badge](https://github.com/user-attachments/assets/23da8b58-690a-405d-8f85-b72211d2396d) ![github-copilot-badge-edited](https://github.com/user-attachments/assets/7312ad21-9ef9-4e84-81c0-2a4790ebcad0)
-
-##
-
 - 💬 Ask me about everything ;)
 - 😄 Pronouns: He / Him / His / Himself
 - ⚡ Fun fact: About 100 million bicycles are manufactured worldwide each year
