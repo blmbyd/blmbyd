@@ -9,4 +9,4 @@ GitHub, DevOps and AI-assisted development.
 - 🤖 **GitHub Copilot**: Helping organisations adopt AI-assisted development with governance and measurable value.
 - 🎤 **Community**: Speaking at conferences, webinars and events about DevOps, DevEx and modern software engineering.
 
-**Full CV:** [blmbyd.github.io/blmbyd](https://blmbyd.github.io/blmbyd/)
+**Full CV:** [blmbyd.github.io](https://blmbyd.github.io/)

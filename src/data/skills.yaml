@@ -1,9 +1,0 @@
-# The three headline skills shown in the hero and on the Open Graph card.
-#
-# There is no full skills section: technologies are shown in context on each
-# role instead, which keeps them tied to where they were actually used.
-
-top:
-  - GitHub Enterprise
-  - Solution Architecture
-  - Technical Pre-Sales

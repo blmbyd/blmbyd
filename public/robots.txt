@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /blmbyd/og
-
-Sitemap: https://blmbyd.github.io/blmbyd/sitemap-index.xml
